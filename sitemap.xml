@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://onektas.top/posts/cef93e60/</loc>
+    
+    <lastmod>2022-09-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://onektas.top/posts/1d4251e6/</loc>
     
     <lastmod>2022-09-19</lastmod>
@@ -58,7 +67,7 @@
 
   <url>
     <loc>https://onektas.top/</loc>
-    <lastmod>2022-09-19</lastmod>
+    <lastmod>2022-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,49 +75,56 @@
   
   <url>
     <loc>https://onektas.top/tags/Hexo/</loc>
-    <lastmod>2022-09-19</lastmod>
+    <lastmod>2022-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onektas.top/tags/Butterfly/</loc>
-    <lastmod>2022-09-19</lastmod>
+    <lastmod>2022-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onektas.top/tags/Minecraft/</loc>
-    <lastmod>2022-09-19</lastmod>
+    <lastmod>2022-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onektas.top/tags/Windows/</loc>
-    <lastmod>2022-09-19</lastmod>
+    <lastmod>2022-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onektas.top/tags/Linux/</loc>
-    <lastmod>2022-09-19</lastmod>
+    <lastmod>2022-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onektas.top/tags/Android/</loc>
-    <lastmod>2022-09-19</lastmod>
+    <lastmod>2022-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onektas.top/tags/iOS/</loc>
-    <lastmod>2022-09-19</lastmod>
+    <lastmod>2022-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://onektas.top/tags/PowerShell/</loc>
+    <lastmod>2022-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -117,7 +133,7 @@
   
   <url>
     <loc>https://onektas.top/categories/Onektas%E7%9A%84%E5%90%84%E7%A7%8D%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2022-09-19</lastmod>
+    <lastmod>2022-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
