@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>技术栈成长记录列表</title>
+      <link href="/posts/1e525ff5/"/>
+      <url>/posts/1e525ff5/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><div class="note default simple"><p>“新”，”记”</p></div><p><br><br></p><h2 id="正在学"><a href="#正在学" class="headerlink" title="正在学"></a>正在学</h2><table><thead><tr><th align="center">技术名称</th><th align="center">学习途径</th></tr></thead><tbody><tr><td align="center">Git</td><td align="center">待定</td></tr><tr><td align="center">Linux</td><td align="center">待定</td></tr><tr><td align="center">操作系统</td><td align="center">待定</td></tr><tr><td align="center">计算机网络</td><td align="center">待定</td></tr><tr><td align="center">计算机组成原理</td><td align="center">待定</td></tr></tbody></table><p><br><br></p><h2 id="了解"><a href="#了解" class="headerlink" title="了解"></a>了解</h2><table><thead><tr><th align="center">技术名称</th><th align="center">学习途径</th></tr></thead><tbody><tr><td align="center">JavaScript</td><td align="center"><a href="https://www.runoob.com/js/js-tutorial.html">菜鸟教程</a></td></tr></tbody></table><p><br><br></p><h2 id="熟悉"><a href="#熟悉" class="headerlink" title="熟悉"></a>熟悉</h2><table><thead><tr><th align="center">技术名称</th><th align="center">学习途径</th></tr></thead><tbody><tr><td align="center">HTML</td><td align="center"><a href="https://www.runoob.com/html/html5-intro.html">菜鸟教程</a></td></tr><tr><td align="center">CSS</td><td align="center"><a href="https://www.runoob.com/css3/css3-tutorial.html">菜鸟教程</a></td></tr></tbody></table><p><br><br></p><h2 id="掌握"><a href="#掌握" class="headerlink" title="掌握"></a>掌握</h2><table><thead><tr><th align="center">技术名称</th><th align="center">学习途径</th><th align="center">成果</th></tr></thead><tbody><tr><td align="center">Flask</td><td align="center"><a href="https://tutorial.helloflask.com/">Hello Flask</a></td><td align="center"><a href="https://github.com/Onektas/Flask-WatchList-Demo">Github Demo</a></td></tr></tbody></table><p><br><br></p><h2 id="熟练"><a href="#熟练" class="headerlink" title="熟练"></a>熟练</h2><table><thead><tr><th align="center">技术名称</th><th align="center">学习途径</th><th align="center">成果</th></tr></thead><tbody><tr><td align="center">Python</td><td align="center"><a href="https://www.runoob.com/python3/python3-tutorial.html">菜鸟教程</a></td><td align="center">-</td></tr></tbody></table><p><br><br></p><h2 id="知识"><a href="#知识" class="headerlink" title="知识"></a>知识</h2><table><thead><tr><th align="center">知识名称</th><th align="center">学习途径</th><th align="center">成果</th></tr></thead><tbody><tr><td align="center">Python数据结构</td><td align="center"><a href="https://study.163.com/course/introduction.htm?courseId=1005526003">网易云课堂</a></td><td align="center"><a href="/posts/be554a7d/">笔记</a></td></tr></tbody></table><p><br><br></p><h2 id="已放弃"><a href="#已放弃" class="headerlink" title="已放弃"></a>已放弃</h2><table><thead><tr><th align="center">技术名称</th><th align="center">学习途径</th><th align="center">成果</th></tr></thead><tbody><tr><td align="center">C++</td><td align="center">《C++ Primer》- 前三章</td><td align="center"><a href="/posts/7df3ebff/">笔记</a></td></tr><tr><td align="center">C语言</td><td align="center">《C程序设计语言》- 前三章</td><td align="center">-</td></tr></tbody></table><p><br><br></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Onektas的学习笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Python数据结构，十年磨剑之一直磨剑</title>
       <link href="/posts/be554a7d/"/>
       <url>/posts/be554a7d/</url>
