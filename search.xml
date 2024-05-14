@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>磨剑归来，我的第一个正式项目 OneShare - 即刻分享</title>
+      <link href="/posts/22d8ba06/"/>
+      <url>/posts/22d8ba06/</url>
+      
+        <content type="html"><![CDATA[<h2 id="在线体验"><a href="#在线体验" class="headerlink" title="在线体验"></a>在线体验</h2><div class="note primary simple no-icon simple"><p><a href="https://share.onektas.top/">OneShare - 即刻分享</a>，如有反馈，请前往页面底部的评论区。</p></div><br><h2 id="OneShare是什么？"><a href="#OneShare是什么？" class="headerlink" title="OneShare是什么？"></a>OneShare是什么？</h2><div class="note default simple no-icon simple"><p><strong>OneShare</strong>是一个安全、便捷的文件分享平台。用户无需注册，只需通过简单的取件码即可快速上传和下载文件。</p></div><br><h2 id="灵感来源"><a href="#灵感来源" class="headerlink" title="灵感来源"></a>灵感来源</h2><div class="note default simple no-icon simple"><p>五年前，在学校打印店频繁使用QQ和微信传输文件的安全隐患引发了我的思考。我希望有一个平台，无需登入，直接通过取件码进行文件传输，从而提高安全性和使用的便捷性。</p><p>PS：我去，现在全部都是加老板微信发文件。但是想法诞生与项目实用场景无关。</p></div><br><h2 id="项目特点"><a href="#项目特点" class="headerlink" title="项目特点"></a>项目特点</h2><div class="note default simple no-icon simple"><p><strong>- 匿名使用：</strong>用户无需注册账号，上传文件后获取唯一取件码，通过取件码和密码即可下载。<br><strong>- 全球可访问：</strong>前端使用Vue3，部署在Vercel平台，确保全球内的快速访问。<br><strong>- 安全保障：</strong>五重校验机制，全程HTTPS加密，保障文件和数据的安全。<br><strong>- 高效与弹性：</strong>后端采用Flask和阿里云Serverless架构，支持自动扩缩容，应对负载高峰。</p></div><br><h2 id="技术亮点"><a href="#技术亮点" class="headerlink" title="技术亮点"></a>技术亮点</h2><div class="note default simple no-icon simple"><p><strong>- 前端：</strong>Vue3 + Element Plus，支持PWA，提供高效的响应式界面，用户体验流畅。<br><strong>- 后端：</strong>Flask + RESTful，后端无状态，支持水平扩展，确保系统的可扩展性和稳定性。<br><strong>- 存储与数据库：</strong>阿里云OSS对象存储和SQLite3，数据管理高效可靠，事务和锁定机制简单易用。<br><strong>- 云计算：</strong>深度融合阿里云服务，并利用API网关、日志服务和GitHub Action实现高效运维和自动化部署。</p></div><br><h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><div class="note default simple no-icon simple"><p><strong>1. 上传文件：</strong>无需注册，直接上传文件并获取取件码。<br><strong>2. 分享取件码：</strong>将取件码发送给需要下载文件的人。<br><strong>3. 下载文件：</strong>输入取件码和密码，快速下载文件。</p></div><br><h2 id="服务配额"><a href="#服务配额" class="headerlink" title="服务配额"></a>服务配额</h2><div class="note default simple no-icon simple"><p><strong>- 用途：</strong>OneShare主要为个人使用，欢迎体验，但并非商业或公益项目。<br><strong>- 存储限制：</strong>同时只允许存储1000个文件，上传总流量1G，下载总流量3G。<br><strong>- 保存时间：</strong>文件至少保存24小时，有3次下载机会，动态限速。</p></div><br><h2 id="最佳实践？"><a href="#最佳实践？" class="headerlink" title="最佳实践？"></a>最佳实践？</h2><div class="note default simple no-icon simple"><p><strong>- 分布式架构：</strong>前端-后端-存储端-数据库，各端分离，独立运行。数据库文件托管在阿里云文件存储NAS，通过NFSv4协议挂载到后端。<br><strong>- 性能与成本兼具：</strong>性能上，各节点均支持扩展；成本上，前端使用Vercel免费套餐，后端-存储-数据库均按量使用，API网关有免费额度。<br><strong>- 冷启动优化：</strong>阿里云函数计算FC3.0最低支持0台实例运行，新开实例会进行冷启动，使用辅助函数大幅优化冷启动时间。<br><strong>- 多重校验与强加密：</strong>总计5重校验保护文件和后端安全，文件上传到对象存储后自动进行MD5校验，AES256加密。</p></div><br><h2 id="未来工作"><a href="#未来工作" class="headerlink" title="未来工作"></a>未来工作</h2><div class="note default simple no-icon simple"><p><strong>- 开源？：</strong>考虑中，部署非常复杂，且做不到一键部署。<br><strong>- 二维码：</strong>上传完成后，提供一个二维码，增加分享便利性。<br><strong>- 下载次数：</strong>自定义下载次数，或提供紧急下载。<br><strong>- 下载信息：</strong>提供上一次的下载信息，如IP、时间等。<br><strong>- 端到端加密：</strong>已有思路，但这意味着彻底失去审核。<br><strong>- 多云架构：</strong>考虑再整个AWS、Azure、CloudFlare版。</p></div><p><br><br></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Onektas的项目文档 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> OneShare </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>技术栈学习记录列表</title>
       <link href="/posts/1e525ff5/"/>
       <url>/posts/1e525ff5/</url>
