@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://onektas.top/posts/f99350f5/</loc>
+    
+    <lastmod>2024-09-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://onektas.top/posts/4a7b1324/</loc>
     
     <lastmod>2024-09-25</lastmod>
@@ -11,9 +20,9 @@
   </url>
   
   <url>
-    <loc>https://onektas.top/posts/22d8ba06/</loc>
+    <loc>https://onektas.top/posts/a3236ad6/</loc>
     
-    <lastmod>2024-05-13</lastmod>
+    <lastmod>2024-05-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -65,18 +74,9 @@
   </url>
   
   <url>
-    <loc>https://onektas.top/posts/1e525ff5/</loc>
+    <loc>https://onektas.top/categories/</loc>
     
-    <lastmod>2024-05-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://onektas.top/posts/a3236ad6/</loc>
-    
-    <lastmod>2024-05-11</lastmod>
+    <lastmod>2022-08-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -91,150 +91,41 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://onektas.top/categories/</loc>
-    
-    <lastmod>2022-08-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://onektas.top/tags/</loc>
-    
-    <lastmod>2022-08-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://onektas.top/</loc>
-    <lastmod>2024-09-26</lastmod>
+    <lastmod>2024-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
-  <url>
-    <loc>https://onektas.top/tags/Minecraft/</loc>
-    <lastmod>2024-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onektas.top/tags/Windows/</loc>
-    <lastmod>2024-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onektas.top/tags/Linux/</loc>
-    <lastmod>2024-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onektas.top/tags/Android/</loc>
-    <lastmod>2024-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onektas.top/tags/iOS/</loc>
-    <lastmod>2024-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onektas.top/tags/PowerShell/</loc>
-    <lastmod>2024-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onektas.top/tags/C/</loc>
-    <lastmod>2024-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onektas.top/tags/Python/</loc>
-    <lastmod>2024-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onektas.top/tags/%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2024-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onektas.top/tags/OneShare/</loc>
-    <lastmod>2024-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onektas.top/tags/Hexo/</loc>
-    <lastmod>2024-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onektas.top/tags/Butterfly/</loc>
-    <lastmod>2024-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onektas.top/tags/ACG/</loc>
-    <lastmod>2024-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
     <loc>https://onektas.top/categories/Onektas%E7%9A%84%E5%90%84%E7%A7%8D%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2024-09-26</lastmod>
+    <lastmod>2024-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onektas.top/categories/Onektas%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2024-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onektas.top/categories/Onektas%E7%9A%84%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/</loc>
-    <lastmod>2024-09-26</lastmod>
+    <lastmod>2024-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onektas.top/categories/Onektas%E7%9A%84%E6%97%B6%E9%97%B4%E8%BD%B4/</loc>
-    <lastmod>2024-09-26</lastmod>
+    <lastmod>2024-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://onektas.top/categories/Onektas%E7%9A%84%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2024-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
